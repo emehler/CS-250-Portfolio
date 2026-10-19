@@ -1,1 +1,4 @@
 # CS-250-Portfolio
+
+CS 250: Software Development Lifecycle - Reflection
+Interpreting user needs requires active listening and translating client requests into actionable technical requirements. Creating "user stories" helps immensely with this process because it forces developers to frame features from the end-user's perspective, ensuring that every piece of code adds tangible value to the final product. My approach to developing programs centers on iterative progress and continuous feedback. Moving forward, I plan to incorporate Agile processes like sprint planning, retrospectives, and regular backlog refinement to keep my future development work organized and adaptable. Ultimately, being a good team member in software development means maintaining clear communication, meeting sprint commitments, remaining open to constructive feedback, and stepping in to help peers when they hit roadblocks.
